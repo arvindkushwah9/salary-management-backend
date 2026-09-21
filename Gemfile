@@ -62,7 +62,7 @@ group :development do
 end
 
 gem "pagy", "~> 43.6"
-gem "json", "~> 2.7"
+gem "json", "~> 3.0"
 
 gem "bcrypt", "~> 3.1"
 
