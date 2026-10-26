@@ -61,7 +61,7 @@ group :development do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem "pagy", "~> 43.6"
+gem "pagy", "~> 43.8"
 gem "json", "~> 2.7"
 
 gem "bcrypt", "~> 3.1"
